@@ -75,4 +75,12 @@
   </a>
 </div>
 
+<h3 align="left">🔥   Belikan Saya Nasi Padang Disini :</h3>
+
+<div align="left">
+  <a href="https://saweria.co/rezafahleviex" target="_blank">
+    <img src="https://icons-for-free.com/iff/png/256/Saweria-1329545831520549908.png" width="52" height="40" alt="saweria logo"  />
+  </a>
+</div>
+
 ###

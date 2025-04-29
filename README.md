@@ -76,7 +76,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Revaldyx/Revaldyx/output/snake.svg" alt="Snake animation" />
-
-###
